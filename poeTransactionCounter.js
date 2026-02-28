@@ -33,6 +33,38 @@ var levenshtein = (function() {
 
 const elements = document.querySelectorAll(".packageName", ".el", ".FontinBold");
 const microtransactions = {
+    // The Last of the Druids
+    "Kalguuran": 30,
+    "Kalguuran Seafarer": 60,
+    "Kalguuran Captain": 90,
+    "Precursor": 30,
+    "Awakened Precursor": 60,
+    "Eternal Precursor": 90,
+
+    // Keepers of the Flame
+    "Champion of Theopolis": 30,
+    "Grand Champion of Theopolis": 60,
+    "Eternal Champion of Theopolis": 90,
+    "Verdant Magus": 30,
+    "Grand Verdant Magus": 60,
+    "Supreme Verdant Magus": 90,
+
+    // Rise of the Abyssal
+    "Trarthan Executioner": 30,
+    "Cruel Trarthan Executioner": 60,
+    "Merciless Trarthan Executioner": 90,
+    "Justice": 30,
+    "Apostle of Justice": 60,
+    "Herald of Justice": 90,
+
+    // Mercenaries of Trarthus
+    "Cryptkeeper": 30,
+    "Hallowed Cryptkeeper": 60,
+    "Sacred Cryptkeeper": 90,
+    "Phrecian Magistrate": 30,
+    "Phrecian Grand Magistrate": 60,
+    "Phrecian Imperial Magistrate": 90,
+    
     // PoE2 Early Access
     "Path of Exile 2 Early Access": 30,
     "Lord of Ogham": 60,
