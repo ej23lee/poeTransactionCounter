@@ -4,7 +4,7 @@ To use this script:
 1. Copy This:
    ```
    (async function executeGitHubScript() {
-    const url = "https://raw.githubusercontent.com/DanielTaranger/poeTransactionCounter/master/poeTransactionCounter.js";
+    const url = "https://raw.githubusercontent.com/ej23lee/poeTransactionCounter/master/poeTransactionCounter.js";
 
     try {
         // Fetch the raw JavaScript file content
