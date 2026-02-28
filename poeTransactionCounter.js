@@ -31,7 +31,7 @@ var levenshtein = (function() {
     };
 })();
 
-const elements = document.querySelectorAll(".packageName", ".el", ".FontinBold");
+const elements = document.querySelectorAll(".my-account-transactions__title");
 const microtransactions = {
     // The Last of the Druids
     "Kalguuran": 30,
